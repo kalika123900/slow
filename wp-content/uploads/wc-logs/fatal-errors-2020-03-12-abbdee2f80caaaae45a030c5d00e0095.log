@@ -1,0 +1,128 @@
+2020-03-12T06:26:13+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin-ajax.php(22): require_once('/home/ubuntu/ww...')
+#5 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:26:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-blog-header.php(13): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/index.php(17): require('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:26:29+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin-ajax.php(22): require_once('/home/ubuntu/ww...')
+#5 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:27:33+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-blog-header.php(13): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/index.php(17): require('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:27:38+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-blog-header.php(13): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/index.php(17): require('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:27:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin-ajax.php(22): require_once('/home/ubuntu/ww...')
+#5 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:28:07+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-blog-header.php(13): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/index.php(17): require('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:28:12+00:00 CRITICAL Uncaught Error: Call to undefined function estore_header_search_box() in /home/ubuntu/www/slow/wp-content/themes/estore/header.php:219
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-includes/template.php(722): require_once()
+#1 /home/ubuntu/www/slow/wp-includes/template.php(671): load_template('/home/ubuntu/ww...', true)
+#2 /home/ubuntu/www/slow/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/ubuntu/www/slow/wp-content/themes/estore/woocommerce/single-product.php(23): get_header('shop')
+#4 /home/ubuntu/www/slow/wp-includes/template-loader.php(98): include('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/wp-blog-header.php(19): require_once('/home/ubuntu/ww...')
+#6 /home/ubuntu/www/slow/index.php(17): require('/home/ubuntu/ww...')
+#7 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/header.php on line 219
+
+2020-03-12T06:28:29+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin-ajax.php(22): require_once('/home/ubuntu/ww...')
+#5 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:28:42+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin-ajax.php(22): require_once('/home/ubuntu/ww...')
+#5 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:29:26+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin.php(34): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/wp-admin/edit.php(10): require_once('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+
+2020-03-12T06:29:56+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php:165
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-content/themes/estore/functions.php(213): require()
+#1 /home/ubuntu/www/slow/wp-settings.php(497): include('/home/ubuntu/ww...')
+#2 /home/ubuntu/www/slow/wp-config.php(93): require_once('/home/ubuntu/ww...')
+#3 /home/ubuntu/www/slow/wp-load.php(37): require_once('/home/ubuntu/ww...')
+#4 /home/ubuntu/www/slow/wp-admin/admin.php(34): require_once('/home/ubuntu/ww...')
+#5 /home/ubuntu/www/slow/wp-admin/edit.php(10): require_once('/home/ubuntu/ww...')
+#6 {main}
+  thrown in /home/ubuntu/www/slow/wp-content/themes/estore/inc/functions.php on line 165
+

@@ -1,0 +1,14 @@
+2020-02-27T07:26:57+00:00 CRITICAL Uncaught Error: Class 'estore_posts_grid' not found in /home/ubuntu/www/slow/wp-includes/class-wp-widget-factory.php:71
+Stack trace:
+#0 /home/ubuntu/www/slow/wp-includes/widgets.php(115): WP_Widget_Factory->register('estore_posts_gr...')
+#1 /home/ubuntu/www/slow/wp-content/themes/estore/inc/widgets.php(138): register_widget('estore_posts_gr...')
+#2 /home/ubuntu/www/slow/wp-includes/class-wp-hook.php(288): estore_widgets_init('')
+#3 /home/ubuntu/www/slow/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#4 /home/ubuntu/www/slow/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/ubuntu/www/slow/wp-includes/widgets.php(1765): do_action('widgets_init')
+#6 /home/ubuntu/www/slow/wp-includes/class-wp-hook.php(288): wp_widgets_init('')
+#7 /home/ubuntu/www/slow/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#8 /home/ubuntu/www/slow/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#9 /home/ubuntu/www/slow/wp-settings.php(523): do_action('init')
+#10 /home in /home/ubuntu/www/slow/wp-includes/class-wp-widget-factory.php on line 71
+
